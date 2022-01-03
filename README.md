@@ -1,4 +1,4 @@
-[![GitHub issues](https://img.shields.io/github/issues/Enthusiastic-Developer/Starter-Challenger?style=for-the-badge)](https://github.com/Enthusiastic-Developer/Starter-Challenger/issues)
-[![GitHub license](https://img.shields.io/github/license/Enthusiastic-Developer/Starter-Challenger?style=for-the-badge)](https://github.com/Enthusiastic-Developer/Starter-Challenger/blob/development/LICENSE)
-[![CodeQL](https://img.shields.io/github/actions/workflows/codeql-analysis.yml/Enthusiastic-Developer/Starter-Challenger?style=for-the-badge))](https://github.com/Enthusiastic-Developer/Starter-Challenger/actions/workflows/codeql-analysis.yml)
+[![GitHub license](https://img.shields.io/github/license/Enthusiastic-Developer/Starter-Challenger)](https://github.com/Enthusiastic-Developer/Starter-Challenger/blob/development/LICENSE)
+[![GitHub issues](https://img.shields.io/github/issues/Enthusiastic-Developer/Starter-Challenger)](https://github.com/Enthusiastic-Developer/Starter-Challenger/issues)
+[![CodeQL](https://github.com/Enthusiastic-Developer/Starter-Challenger/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/Enthusiastic-Developer/Starter-Challenger/actions/workflows/codeql-analysis.yml)
 # Starter-Challenger
