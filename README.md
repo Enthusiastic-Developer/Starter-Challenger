@@ -4,4 +4,4 @@
 [![Deploy static content to Pages](https://github.com/Enthusiastic-Developer/Starter-Challenger/actions/workflows/static.yml/badge.svg)](https://github.com/Enthusiastic-Developer/Starter-Challenger/actions/workflows/static.yml)
 
 ### Project URL
-https://enthusiastic-developer.github.io/Starter-Challenger/`<Project Name>`
+https://enthusiastic-developer.github.io/Starter-Challenger/`Project Name`
